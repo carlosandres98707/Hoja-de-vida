@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  body{
+    margin: 0;
+    margin-bottom: 40px;
+    background-color: #DBDBE1;
+}
+header{
+    background-color: white;
+    height: auto;
+}
+
+main{
+    background-color: #E6E6EA;
+    width: 1016px;
+    height: auto;
+    float: left;
+    position: absolute;
+    transform: translateX(260px); 
+    box-shadow: 0px 10px 10px black;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+}
+h1:hover{
+    cursor: pointer;
+    color: #25EA3B;
+}
+#foto{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    background-color: brown;
+}
+h2{
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Akaya Telivigala', cursive;
+}
+h2:hover{
+    cursor: pointer;
+    color: #FD6E18;
+}
+h3{
+    font-family: Arial;
+    text-align: center;
+}
+h4{
+    transform: translateX(5px);
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+    color: #FD4818;
+}
+p{
+    margin-right: 10px;
+    text-align: left;
+    transform: translateX(5px);
+    font-size: 18px;
+    font-family: 'calibri';
+
+}
+
+table{
+    width: 100%;
+    table-layout: fixed;
+}
+
+td {
+    width: 100px;
+    word-wrap: break-word;
+}
+
+.titu{
+    text-align: center;
+}
+.hoj{
+    text-align: center ;
+}
+
+meter{
+    width: 100px;
+    transform: translateX(30px);
+    
+}
+h5{
+    text-align: center;
+    font-family: cursive;
+    
+}
+
+
+
+
